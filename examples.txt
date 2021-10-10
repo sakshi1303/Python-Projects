@@ -1,0 +1,11 @@
+li = []
+print('Enter the number of elements:')
+n = int(input())
+print('Enter the list:')
+for i in range(0,n):
+    x = int(input())
+    li.append(x)
+print(li)
+mid_idx = int(len(li)/2)
+print(mid_idx)
+print(li[mid_idx])

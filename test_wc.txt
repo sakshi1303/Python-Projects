@@ -1,0 +1,4 @@
+wordcount:5 I love Java.I love Python.
+wordcount:3 I love C.
+wordcount:3 I love C++.
+wordcount:3 I love SQL.
