@@ -1,0 +1,10 @@
+{"customer_id":1,"customer_name":"Tom","order_id":101,"product":"milk"}
+{"customer_id":2,"customer_name":"John","order_id":102,"product":"veggie"}
+{"customer_id":2,"customer_name":"John","order_id":102,"product":"water"}
+{"customer_id":3,"customer_name":"Percy","order_id":103,"product":"book"}
+{"customer_id":3,"customer_name":"Percy","order_id":102,"product":"mobile"}
+{"customer_id":3,"customer_name":"Percy","order_id":102,"product":"powerbank"}
+{"customer_id":4,"customer_name":"Mary","order_id":104,"product":"mobile"}
+{"customer_id":5,"customer_name":"Kris","order_id":105,"product":"laptop"}
+{"customer_id":6,"customer_name":null,"order_id":106,"product":"computer"}
+{"customer_id":7,"customer_name":null,"order_id":107,"product":"book"}

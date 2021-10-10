@@ -1,0 +1,10 @@
+import pandas as pd
+df_cust = pd.read_json('./Amazon/customer.json', dtype = None)
+#print(df_cust.head())
+df_order = pd.read_json('./Amazon/order.json', dtype = None)
+#print(df_order.head())
+df_final = pd.merge(df_cust[['customer_id', 'customer_name']], df_order, on = 'customer_id', how = 'outer')
+#print(df_final)
+jdata = df_final.to_json('./Amazon/result.json', orient = 'records', lines = True)
+print(df_cust.groupby(['customer_id']).max())
+print(df_cust.max())

@@ -1,0 +1,10 @@
+CRDB/Package/pkg_sample_data.pkb
+CRDB/Table/sample_table.sql
+CRDB/Data/sample_data.sql
+CRDB/Release/sample_release_file.sql
+INST_DDS/Package/sample_pkg.pks
+INST_DDS/Package/sample_pkg.pkb
+CRDB_STG/Table/sample_table.sql
+INST_DDS/Grants/sample_grant.sql
+INST_DDS/Synonyms/sample_synonym.sql
+CRDB/View/sample_view.sql

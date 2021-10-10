@@ -1,0 +1,7 @@
+[
+    {"customer_id" : "1" , "customer_name" : "Tom", "address" : "Boston"},
+    {"customer_id" : "2" , "customer_name" : "John", "address" : "London"},
+    {"customer_id" : "3" , "customer_name" : "Percy", "address" : "Dallas"},
+    {"customer_id" : "4" , "customer_name" : "Mary", "address" : "Texas"},
+    {"customer_id" : "5" , "customer_name" : "Kris", "address" : "Boston"}
+]

@@ -1,0 +1,17 @@
+CRDB_STG,Table
+CRDB_STG,Data
+CRDB_STG,Package
+CRDB_STG,Grants
+CRDB,Table
+CRDB,Data
+CRDB,View
+CRDB,Package
+CRDB,Release
+CRDB,Grants
+CRDB,Synonyms
+INST_DDS,Table
+INST_DDS,Data
+INST_DDS,View
+INST_DDS,Package
+INST_DDS,Grants
+INST_DDS,Synonyms
